@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Author: CriseLYJ
-# @Date:   2018-12-8 17:13:11
+# @Author: MediocrityXT
+# @Github: https://github.com/MediocrityXT
+# @Date:   2020-8-2 
 
 
 import requests
